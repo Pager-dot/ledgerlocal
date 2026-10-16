@@ -1,0 +1,19 @@
+BRIGHT PATH LEGAL LLP
+Invoice
+
+Bill to: Studio Vale
+Invoice No: BPL-2026-0188
+Date: March 2, 2026
+Due: April 1, 2026
+PO: PO-2026-AC
+
+Description                              Hours    Rate       Amount
+---------------------------------------------------------------------
+Contract review - Acme Corp MSA            3.5   220.00      770.00
+Trademark filing advice                    1.0   220.00      220.00
+---------------------------------------------------------------------
+                                         Subtotal            990.00
+                                         Sales tax 0%          0.00
+                                         TOTAL DUE        $  990.00
+
+Remit within 30 days.

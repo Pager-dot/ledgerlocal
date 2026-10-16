@@ -1,0 +1,22 @@
+Hetzner Online GmbH
+Industriestr. 25, 91710 Gunzenhausen, Germany
+VAT ID: DE812871812
+
+INVOICE
+
+Invoice number:  R0029481773
+Invoice date:    14.02.2026
+Customer:        Studio Vale (Freelance)
+Service period:  01.02.2026 - 28.02.2026
+
+Position                                    Qty    Unit price      Amount
+--------------------------------------------------------------------------
+CX42 Cloud Server (Falkenstein)               1       22,90 €      22,90 €
+Primary IPv4                                  1        0,60 €       0,60 €
+Volume storage 100 GB                         1        4,00 €       4,00 €
+--------------------------------------------------------------------------
+                                              Net:                 27,50 €
+                                              VAT 19%:              5,23 €
+                                              TOTAL:               32,73 €
+
+Paid by SEPA direct debit. Thank you.
